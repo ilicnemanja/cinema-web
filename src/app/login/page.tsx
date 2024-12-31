@@ -1,8 +1,8 @@
-import Home from '@/components/pages/Home'
+import Login from '@/components/pages/Login'
 
 const page = () => {
   return (
-    <Home />
+    <Login />
   )
 }
 
